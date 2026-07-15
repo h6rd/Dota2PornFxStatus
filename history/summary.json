@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/d2pfx.netlify.app.ico",
     "slug": "netlify",
     "status": "down",
-    "uptime": "2.26%",
-    "uptimeDay": "2.26%",
-    "uptimeWeek": "2.26%",
-    "uptimeMonth": "2.26%",
-    "uptimeYear": "2.26%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "uptime": "1.33%",
+    "uptimeDay": "1.33%",
+    "uptimeWeek": "1.33%",
+    "uptimeMonth": "1.33%",
+    "uptimeYear": "1.33%",
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-07-15": 9
+      "2026-07-15": 15
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/d2pfx.onrender.com.ico",
     "slug": "render",
     "status": "down",
-    "uptime": "2.35%",
-    "uptimeDay": "2.35%",
-    "uptimeWeek": "2.35%",
-    "uptimeMonth": "2.35%",
-    "uptimeYear": "2.35%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "uptime": "1.37%",
+    "uptimeDay": "1.37%",
+    "uptimeWeek": "1.37%",
+    "uptimeMonth": "1.37%",
+    "uptimeYear": "1.37%",
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2026-07-15": 9
+      "2026-07-15": 15
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hrdq.codeberg.pages.ico",
     "slug": "codeberg",
     "status": "down",
-    "uptime": "3.99%",
-    "uptimeDay": "3.99%",
-    "uptimeWeek": "3.99%",
-    "uptimeMonth": "3.99%",
-    "uptimeYear": "3.99%",
+    "uptime": "2.41%",
+    "uptimeDay": "2.41%",
+    "uptimeWeek": "2.41%",
+    "uptimeMonth": "2.41%",
+    "uptimeYear": "2.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 8
+      "2026-07-15": 15
     }
   }
 ]
