@@ -17,7 +17,7 @@ status-website:
   baseUrl: /Dota2PornFxStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dota2PornFxStatus
-  themeUrl: https://github.com/h6rd/Dota2PornFxStatus/blob/master/assets/custom.css
+  themeUrl: https://raw.githubusercontent.com/h6rd/Dota2PornFxStatus/refs/heads/master/assets/custom.css
   navbar:
     - title: Status
       href: /
