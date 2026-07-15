@@ -22,18 +22,20 @@
     "url": "https://d2pfx.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/d2pfx.vercel.app.ico",
     "slug": "vercel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
+    "dailyMinutesDown": {
+      "2026-07-15": 0
+    }
   },
   {
     "name": "Netlify",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/d2pfx.netlify.app.ico",
     "slug": "netlify",
     "status": "down",
-    "uptime": "1.04%",
-    "uptimeDay": "1.04%",
-    "uptimeWeek": "1.04%",
-    "uptimeMonth": "1.04%",
-    "uptimeYear": "1.04%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 61,
     "timeDay": 61,
     "timeWeek": 61,
     "timeMonth": 61,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-07-15": 20
+      "2026-07-15": 429
     }
   },
   {
@@ -61,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/d2pfx.onrender.com.ico",
     "slug": "render",
     "status": "down",
-    "uptime": "0.99%",
-    "uptimeDay": "0.99%",
-    "uptimeWeek": "0.99%",
-    "uptimeMonth": "0.99%",
-    "uptimeYear": "0.99%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2026-07-15": 20
+      "2026-07-15": 429
     }
   }
 ]
