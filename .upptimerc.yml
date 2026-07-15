@@ -10,16 +10,9 @@ sites:
     url: https://d2pfx.netlify.app/
   - name: Render
     url: https://d2pfx.onrender.com/
-  - name: Codeberg
-    url: https://hrdq.codeberg.pages/hrdq/Dota2PornFxWeb/
 
 status-website:
   baseUrl: /Dota2PornFxStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dota2PornFxStatus
-  themeUrl: /Dota2PornFxStatus/custom.css
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  themeUrl: https://cdn.statically.io/gh/h6rd/Dota2PornFxStatus@master/assets/custom.css
